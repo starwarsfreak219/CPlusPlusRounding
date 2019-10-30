@@ -2,7 +2,7 @@
 //  BasicC++.cpp
 //  C++ Programming
 //
-//  Created by Sage Harper on 10/30/19.
+//  Created by starwarsfreak219 on 10/30/19.
 //  Copyright © 2019 Eastern Michigan University. All rights reserved.
 //
 
